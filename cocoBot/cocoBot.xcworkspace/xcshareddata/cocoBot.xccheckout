@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAAD18E6-E3DB-4124-BC5E-79518666F790</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cocoBot</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3B5617E02D6871B20FBDE17C158BE4453C03A8D2</key>
+		<string>https://github.com/yhfy2006/CocoBotiOSClient.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cocoBot/cocoBot.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3B5617E02D6871B20FBDE17C158BE4453C03A8D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yhfy2006/CocoBotiOSClient.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3B5617E02D6871B20FBDE17C158BE4453C03A8D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3B5617E02D6871B20FBDE17C158BE4453C03A8D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocoBotiOSClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>

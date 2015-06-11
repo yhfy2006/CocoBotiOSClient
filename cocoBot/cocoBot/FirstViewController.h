@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <iflyMSC/IFlyRecognizerViewDelegate.h>
+#import <iflyMSC/IFlyRecognizerView.h>
 
 @interface FirstViewController : UIViewController
 
