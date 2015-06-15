@@ -29,6 +29,7 @@
 		4574811A1B293B2B00E19711 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 457481191B293B2B00E19711 /* CoreGraphics.framework */; };
 		4574811D1B293BB100E19711 /* iflyMSC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4574811C1B293BB100E19711 /* iflyMSC.framework */; };
 		457481231B29439F00E19711 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 457481221B29439F00E19711 /* Utils.m */; };
+		457481261B2E73EA00E19711 /* SemanticResponseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 457481251B2E73EA00E19711 /* SemanticResponseModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +73,8 @@
 		4574811C1B293BB100E19711 /* iflyMSC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iflyMSC.framework; path = cocoBot/iflyMSC.framework; sourceTree = "<group>"; };
 		457481211B29439F00E19711 /* Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
 		457481221B29439F00E19711 /* Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Utils.m; sourceTree = "<group>"; };
+		457481241B2E73EA00E19711 /* SemanticResponseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SemanticResponseModel.h; sourceTree = "<group>"; };
+		457481251B2E73EA00E19711 /* SemanticResponseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SemanticResponseModel.m; sourceTree = "<group>"; };
 		886FEC3F5E4548C8DE15F21D /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		8D9D4585AD6AC52927698C1A /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -139,6 +142,8 @@
 				457481221B29439F00E19711 /* Utils.m */,
 				457480981B291F0400E19711 /* SecondViewController.h */,
 				457480991B291F0400E19711 /* SecondViewController.m */,
+				457481241B2E73EA00E19711 /* SemanticResponseModel.h */,
+				457481251B2E73EA00E19711 /* SemanticResponseModel.m */,
 				4574809B1B291F0400E19711 /* Main.storyboard */,
 				4574809E1B291F0400E19711 /* Images.xcassets */,
 				457480A01B291F0400E19711 /* LaunchScreen.xib */,
@@ -346,6 +351,7 @@
 			files = (
 				4574809A1B291F0400E19711 /* SecondViewController.m in Sources */,
 				457480941B291F0400E19711 /* AppDelegate.m in Sources */,
+				457481261B2E73EA00E19711 /* SemanticResponseModel.m in Sources */,
 				457480971B291F0400E19711 /* FirstViewController.m in Sources */,
 				457481231B29439F00E19711 /* Utils.m in Sources */,
 				457480911B291F0400E19711 /* main.m in Sources */,

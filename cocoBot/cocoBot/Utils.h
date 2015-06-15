@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #define ttsURL @"http://127.0.0.1:5000/tts/"
+#define cocoServiceUrl @"http://127.0.0.1:5000/cococmd"
 
 @interface Utils : NSObject
 
